@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @renfriedrich
 - 👀 I’m interested in front end and graphic art
-- 🌱 I’m currently learning the odin project
-- 💞️ I’m looking to collaborate on nothing yet haha, still very new
+- 🌱 I’m currently learning TOP, Javascript 
+- 💞️ I’m looking to collaborate on digital art, front end projects
 
 
 <!---
